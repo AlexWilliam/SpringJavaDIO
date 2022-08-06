@@ -1,10 +1,10 @@
-package me.dio;
+package com.digitalinnovationone.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringJavaDiOoApplicationTests {
+class ProjetoSpringJavaDioApplicationTests {
 
 	@Test
 	void contextLoads() {
