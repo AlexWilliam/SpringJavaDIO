@@ -14,3 +14,9 @@ spring:
     url: jdbc:postgresql://localhost:5432/projetospringboot
     username: postgres
     password: postgres
+
+security:
+  config:
+    prefix: Bearer
+    key: uTWtO(0y<[K9hlQ$eOtM=e2lL3b|XR%pg."S4n40k:wz$(%c64:vo_O&%$}Dd9;
+    expiration: 3600000
